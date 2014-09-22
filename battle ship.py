@@ -8,4 +8,20 @@ elif color =='blue':
      print("good luck jedi")
 else:
     print ("bad")
- 
+
+Ship ():pass
+
+class Carrier(ship):
+      size = 5
+class Patrolboat(ship):
+      size =2
+class  Deastory(ship):
+       size = 3
+class Submarine(ship):
+      size = 3
+class Battleship(ship):
+      size = 4
+  w=('~')
+   grid =[
+      [w,w,w,w,w,w,w,w,w,w]
+]
