@@ -1,32 +1,3 @@
-w= '~' 
-row = [w,w,w,w,w,w,w,w,w,w]
-
-for col in row:
-   print (col, end= ' ')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 print("hi")
 print ("welcom to balltel ship")
 print ("wich color world you like red or blue")
